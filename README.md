@@ -1,5 +1,5 @@
 # homework02
-
+![petg](https://github.com/Kayu10/homework/blob/main/graphviz%20(1).png)
 
 ```mermaid
 gantt
